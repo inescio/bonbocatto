@@ -163,7 +163,7 @@ export default async function Home() {
           width="560"
           height="315"
           src={videoUrl}
-          title="YouTube video player"
+          title="Video de medialunas"
           frameborder="0"
   allowfullscreen
         />
