@@ -75,7 +75,7 @@ const projects = [
 
 export const metadata = {
   title: 'Products',
-  description: 'Things I’ve made trying to put my dent in the universe.',
+  description: 'Conocé nuestros productos',
 }
 
 export default function Projects() {
